@@ -4,23 +4,12 @@
       "/Users/mikey-roberts/Documents/Repos/week_4/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
           1,
           null,
           1,
           1,
           1,
-          null,
+          1,
           null,
           null,
           1,
@@ -29,7 +18,48 @@
           null,
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/mikey-roberts/Documents/Repos/week_4/bookmark_manager/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -40,7 +70,24 @@
           1,
           1,
           1,
+          1,
           null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/mikey-roberts/Documents/Repos/week_4/bookmark_manager/spec/feature tests/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
           1,
           null,
           null
@@ -52,9 +99,6 @@
           null,
           1,
           1,
-          null,
-          null,
-          null,
           1,
           1,
           1,
@@ -69,6 +113,6 @@
         ]
       }
     },
-    "timestamp": 1623785627
+    "timestamp": 1623855511
   }
 }
